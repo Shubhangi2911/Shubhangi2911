@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubhangi Salve</h1>
-<h3 align="center">Data Science & Analytics Professional | SQL • Python • Power BI • ML • NLP</h3>
+<h3 align="center">Data Science & Analytics with AI Professional | SQL • Python • Power BI • Tableau • ML • DL • NLP</h3>
+
 
 ---
 
@@ -55,10 +56,10 @@
 🌐 **Connect With Me**
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/shubhangi-salve-413973170" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:shubhangisalve26@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
