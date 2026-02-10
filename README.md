@@ -18,12 +18,15 @@
 
 🛠️ **Tech Stack**
 
+🛠️ Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-4B0082?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NLP%20%26%20LLMs-8A2BE2?style=for-the-badge"/>
 </p>
 
