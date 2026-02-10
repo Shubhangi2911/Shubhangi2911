@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shubhangi Salve</h1>
+<h3 align="center">Data Science & Analytics Professional | SQL • Python • Power BI • ML • NLP</h3>
 
-<!--
-**Shubhangi2911/Shubhangi2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 **Education**
+- 🎓 B.Pharm — Pune University  
+- 🎓 Master’s in Data Science & Analytics with AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **About Me**
+- Passionate about transforming data into actionable insights  
+- Strong foundation in analytics, machine learning, and AI  
+- Hands-on experience with real-world projects  
+- Interested in Data Analyst & Data Science roles  
+
+---
+
+🛠️ **Tech Stack**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP%20%26%20LLMs-8A2BE2?style=for-the-badge"/>
+</p>
+
+---
+
+📊 **Projects Highlights**
+
+🔹 **Hotel Reservation Analysis (SQL)**  
+- Analyzed booking patterns, cancellations & customer behavior  
+
+🔹 **Blinkit Sales Analysis (Power BI)**  
+- Interactive dashboard with KPIs & insights  
+
+🔹 **Medicine Recommendation System (ML)**  
+- Recommendation engine based on symptoms & data patterns  
+
+🔹 **Chatbot using NLP**  
+- Built an intelligent chatbot using NLP techniques  
+
+---
+
+📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhangi2911&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+🌐 **Connect With Me**
+
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *Open to exciting opportunities in Data Analytics & Data Science*
